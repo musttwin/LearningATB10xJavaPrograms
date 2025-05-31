@@ -17,7 +17,7 @@ class Employee{
 
 public class constructor{
     public static void main(String[] args) {
-        Employee e1 = new Employee("SID", 32);
+        Employee e1 = new Employee("PAMPA", 32);
         e1.employeeInfo();
     }
 }
